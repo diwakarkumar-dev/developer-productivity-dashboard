@@ -1,16 +1,95 @@
-# React + Vite
+# DevFlow Productivity Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Developer Productivity Dashboard built with React.js and Vite.
 
-Currently, two official plugins are available:
+## 📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+DevFlow Productivity Hub is a productivity dashboard designed to help developers manage projects, track tasks, monitor progress, and stay organized from a single interface.
 
-## React Compiler
+The dashboard provides project tracking, task management, search and filtering, progress indicators, productivity statistics, and responsive layouts for different screen sizes.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📊 Productivity dashboard
+- 📁 Project management cards
+- ✅ Task tracking
+- 📈 Project progress indicators
+- 🔍 Search projects and tasks
+- 🎯 Task status filtering
+- 📱 Responsive design
+- ⏳ Loading state
+- 📭 Empty state
+- 🔄 Dashboard refresh functionality
+- 👤 User/profile section
+- 🧩 Organized React project structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+## 📂 Project Structure
+
+developer-dashboard/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+git clone https://github.com/diwakarkumar-dev/developer-productivity-dashboard.git
+
+### 2. Open the project
+
+cd developer-productivity-dashboard
+
+### 3. Install dependencies
+
+npm install
+
+### 4. Start the development server
+
+npm run dev
+
+The application will run on the local Vite development server.
+
+## 🎯 Task 1 Requirements Covered
+
+- Dashboard/Home interface
+- Navigation
+- User/Profile section
+- Project and task cards
+- Progress indicators
+- Search and filtering
+- Responsive design
+- Loading state
+- Empty state
+- Organized React project structure
+
+## 📸 Screenshots
+
+Screenshots of the application will be added here.
+
+## 🎥 Demo
+
+A short demonstration video showing the application's main features will be added here.
+
+## 👨‍💻 Author
+
+**Diwakar Kumar**
+
+GitHub:
+https://github.com/diwakarkumar-dev
